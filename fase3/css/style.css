@@ -217,7 +217,7 @@ nav ul{
 .fb-page{
     margin-right: 4rem;
     float: right;
-    width: 35%;
+    width: 0 auto;
     padding: 1%;
     margin-top: 4rem;
 }
